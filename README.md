@@ -124,8 +124,7 @@ pip install numpy pandas scipy scikit-learn matplotlib seaborn jupyterlab liac-a
 
 ## 🗂️ File Structure
 ```
-.
-├── da25e054_Assignment_5.ipynb    # The main Jupyter Notebook with all code and analysis.
+├── da25e054.ipynb    # The main Jupyter Notebook with all code and analysis.
 ├── yeast.arff                     # The dataset file (must be downloaded).
 ├── README.md                      # This file.
 ```
