@@ -94,7 +94,7 @@ To run this analysis on your local machine, follow these steps.
 
 **1. Clone the repository:**
 ```bash
-git clone https://github.com/shriprasad15/DA5401-JUL-NOV-2025-assignment-5-shriprasad15
+git clone https://github.com/shriprasad15/DA5401-JUL-NOV-2025-assignment-5-shriprasad15.git
 cd DA5401-JUL-NOV-2025-assignment-5-shriprasad15
 ```
 
